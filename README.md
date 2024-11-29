@@ -4,7 +4,7 @@ Analysis of Caffeine's Effects on Money Spending Trends
 Project Overview
 
 
-This project aims to explore the relationship between caffeine consumption and spending habits. By analyzing personal data collected over a specific timeframe, I aim to uncover patterns and trends that may indicate whether or not caffeine has a significant influence on my spending behavior. The findings of this project could provide insights into behavioral economics and personal finance management.
+This project aims to discover the relationship between caffeine consumption and spending habits. By analyzing my personal data that I collected over a specific time frame, I aim to discover patterns and trends that might indicate whether or not caffeine consumption has a significant impact on my spending behavior. The findings of this project could provide insights into behavioral economics and personal finance management.
 
 
 Motivation
@@ -22,13 +22,13 @@ The dataset for this project will be entirely self-collected. I will extract the
 
 Caffeine intake: Amount of caffeine consumed throughout the day (in the form of milligrams) and the time of consumption.
 
-Other factors: Significant events that might affect results (e.g. exam / homework deadlines and other day to day events).
+Other factors: Significant events that might affect results (exam / homework deadlines and other day to day events).
 
 2. Spending Data
 
-Money spent: Summary of expenses categorized by type (e.g. food, clothing, electronic devices, accessories, gifts and others).
+Money spent: Summary of expenses categorized by type (food, clothing, electronic devices, accessories, gifts and others).
 
-Other factors: Significant events that might affect results (e.g.birthdays, holidays and other special occasions where people tend to spend more money)
+Other significant factors: Events that might affect results (birthdays, holidays and other special occasions where people tend to spend more money)
 
 
 Data Analysis Plan
@@ -82,7 +82,7 @@ Although findings will emerge from the analysis, I look forward to discovering:
 
 Whether caffeine consumption correlates with spending habits.
 
-Possible time based patterns (e.g. morning coffee leading to higher amount of money spent during noon time).
+Possible time based patterns (morning coffee leading to higher amount of money spent during noon time etc.).
 
 
 Limitations and Future Work
