@@ -16,13 +16,13 @@ Caffeine is a part of my daily routine, and I often consume it before studying, 
 Dataset Description
 
 
-The dataset for this project will be entirely self-collected. I will extract the necessary data from Google Calendar and Akbank mobile app and also over the next four weeks, I will log the following metrics daily:
+The dataset for this project will be entirely self collected. I will extract the necessary data from Google Calendar and Akbank mobile app and also over the next four weeks, I will log the following metrics daily:
 
 1. Caffeine Consumption Data
 
 Caffeine intake: Amount of caffeine consumed throughout the day (in the form of milligrams) and the time of consumption.
 
-Other factors: Significant events that might affect results (exam / homework deadlines and other day to day events).
+Other significant factors: Events that might affect results (exam / homework deadlines and other day to day events).
 
 2. Spending Data
 
@@ -54,7 +54,7 @@ Visualize correlations between caffeine intake and spending habits using heatmap
 
 Build a regression model to understand how caffeine intake influences spending trends.
 
-Use clustering to group days with similar caffeine intakes and classify whether high spending days are caffeine-influenced.
+Use clustering to group days with similar caffeine intakes and classify whether high spending days are caffeine influenced.
 
 5. Reporting Findings and Presentation
 
@@ -93,7 +93,7 @@ Limitations
 
 Sample size: The project is limited to my personal data. Generalizing findings requires more participants.
 
-Data accuracy: Self-reported and app-recorded caffeine consumption and spending trends may have inconsistencies.
+Data accuracy: Self reported and app recorded caffeine consumption and spending trends may have inconsistencies.
 
 Confounding Variables: Other factors like mood, holidays, and social plans could affect spending beyond caffeine's influence.
 
@@ -106,13 +106,13 @@ Suggest improvements, like expanding the study  to include more participants in 
 
 Example Github Repository Structure
 
-README.md          # Project overview and details
+README.md      ---> Project overview and details
 
-data              # Processed datasets (no raw data for privacy reasons)
+data           ---> Processed datasets (no raw data for privacy reasons)
 
-scripts           # Python scripts for data processing and analysis
+scripts        --->  Python scripts for data processing and analysis
 
-visualizations    # Output plots and dashboards
+visualizations --->  Output plots and dashboards
 
 final report and presentation
 
