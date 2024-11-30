@@ -42,7 +42,7 @@ Spending data will be extracted from Akbank mobile app and also logged to a simp
 
 2. Exploratory Data Analysis (EDA)
 
-Clean and preprocess the dataset.
+Clean and preprocess the dataset (handle missing data, check for outliers, scale variables etc.)
 
 Perform EDA to identify trends and correlations (caffeine intake vs. spending trends).
 
@@ -52,7 +52,7 @@ Visualize correlations between caffeine intake and spending habits using heatmap
 
 4. Machine Learning Models
 
-Build a regression model to predict daily spending trends based on caffeine intake.
+Build a regression model to understand how caffeine intake influences spending trends.
 
 Use clustering to group days with similar caffeine intakes and classify whether high spending days are caffeine-influenced.
 
@@ -70,7 +70,7 @@ Data Collection: Manual tracking using apps and spreadsheets.
 
 Data Analysis: Python with Pandas, NumPy and other libraries.
 
-Visualization: Matplotlib, Seaborn, and other libraries for interactive dashboards.
+Visualization: Matplotlib, Seaborn, Plotly and other libraries for interactive dashboards.
 
 GitHub for hosting scripts and the project repository.
 
