@@ -7,9 +7,9 @@ Project Overview
 This project aims to discover the relationship between caffeine consumption and spending habits. By analyzing my personal data that I collected over a specific time frame, I aim to discover patterns and trends that might indicate whether or not caffeine consumption has a significant impact on my spending behavior. The findings of this project could provide insights into behavioral economics and personal finance management. 
 
 
-Null Hypothesis: Caffeine intake influences spending trends.
+Null Hypothesis: Caffeine intake does not influence spending trends.
 
-Alternative Hypothesis: Caffeine intake does not influence spending trends.
+Alternative Hypothesis: Caffeine intake influences spending trends. (We seek evidence for this)
 
 
 Motivation
