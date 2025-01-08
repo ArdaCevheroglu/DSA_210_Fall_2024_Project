@@ -58,7 +58,7 @@ Caffeine intake was calculated through weighing heaping tablespoon of instant co
 
 #### Spending Data
 
-* Thousand separators and commas were replaced and "TL" string was dropped from amounts (17.000,99TL --> 17000.99)
+* Thousand separators and commas were replaced and "TL" was dropped from amounts (example: 1.000,99TL -> 1000.99)
 
 * Converted amounts to numeric values
 
